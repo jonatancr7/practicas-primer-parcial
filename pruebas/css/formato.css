@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    
+}
+.aside{
+    
+    width: 250px;
+    height: 315px;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 30px;
+
+}
+.articulo{
+    background-color: black;
+    width: 820px;
+    height: 315px;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    line-height:50px;
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    color: red;
+}
+li{
+    color:  white;
+}
+.hola{
+    background-image: url(https://st4.depositphotos.com/22373756/25651/i/450/depositphotos_256519066-stock-photo-fire-flames-abstract-art-black.jpg);
+    float: left;
+    height: 300px;
+    width: 2000px;
+}
+

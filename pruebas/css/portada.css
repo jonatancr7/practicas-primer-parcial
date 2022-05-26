@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+body{
+    background-image: url(https://i.ytimg.com/vi/foGEx3cjNB0/maxresdefault.jpg)
+}
+    main{
+        background-color: rgb(17, 209, 17);
+        width: 160px;
+        height: 40px;
+        padding: 0px;
+        margin: 0px;
+        float: left;
+    }
+    #div
+    {
+        margin:auto;
+        width:200px;
+        font-family:Arial, Helvetica, sans-serif;
+        float: left;
+    }
+    ul, ol 
+    {
+        list-style:none; 
+    }
+    .menu > li {
+        float:left;
+    }
+    .menu li a 
+    {
+        background-color: blue;
+        color:rgb(232, 236, 234);
+        text-decoration:none;
+        padding:10px 12px;
+        display:block;
+    }
+    .menu li a:hover {
+        background-color:#922929;
+    }
+    .menu li ul 
+    {
+        display:none;
+        position:absolute;
+        min-width:140px;
+    }
+    .menu li:hover > ul 
+    {
+        display:block;
+    }
+    .menu li ul li 
+    {
+        position:relative;
+    }
+    .menu li ul li ul 
+    {
+        right:140px;
+        top:0px;
+    }
+    .fotoescuel{
+        border: 5px;
+        width: 700px;
+        height: 200px;
+        float: left;
+        margin-left: 10px;
+
+    }
+    .portada{
+        border: 5px;
+        width: 800px;
+        height: 450px;
+        float: left;
+        margin-left: 100px;
+      
+    }
+    p{
+        text-align: center;
+    }
+    .por{
+        background-color: black;
+        text-align: center;
+        color: rgb(236, 240, 243);
+    }
+    .foto{
+        width: 200px;
+        height: 200px;
+        float: right;
+        margin: 0%;
+        padding: 0%;
+    }
+    .escuela{
+        float: left;
+        height: 300px;
+        width: 900px;
+        margin-left: 150px;
+    }
+    img{
+        float: center;
+        margin: left 100px;
+    }
+    .escu{
+        float: left;
+        height: 200px;
+        width: 500px;
+        margin-left:370px;
+    }

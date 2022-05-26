@@ -1,0 +1,119 @@
+body{
+    background-color: silver;
+}
+nav{
+    background-color: bisque;
+    width: 1000px;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 5px solid black;
+    border-bottom: 2.5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    
+}
+.box{
+    background-color: sandybrown;
+    width: 150px ;
+    height: 50px;
+    margin: 15px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+header{
+    background-color: cornflowerblue;
+    border: 5px;
+    width: 1000px;
+    height: 320px;
+    display: flex;
+    border-top: 5px solid black;
+    border-bottom: 2.5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black; 
+   
+}
+.banner{
+    background-color: whitesmoke;
+    width: 800px ;
+    height: 270px;
+    margin: 10px;
+    text-align: center;
+    line-height: 250px;
+    font-size: 70px;
+}
+section{
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 270px;
+    float: right;
+    margin: 5px;
+    border-radius: 10px;
+  }
+  .logo{
+    background-color: burlywood;
+    width: 150px;
+    height: 80px;
+    float: left;
+    margin: 5px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 25px;
+}
+main
+{
+    width: 1000px;
+    height: 320px;
+    background-color: burlywood;
+    display: flex;
+    border-top: 5px solid black;
+    border-bottom: 2.5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    
+}
+.aside
+{
+    background-color: whitesmoke;
+    width: 250px;
+    height: 315px;
+    float: left;
+    margin: 5px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 30px;
+}
+.articulo
+{
+    background-color: whitesmoke;
+    width: 500px;
+    height: 315px;
+    float: left;
+    margin: 5px;
+    text-align: center;
+    line-height: 150px;
+    font-size: 30px;
+}
+footer{
+    background-color: rosybrown;
+    width: 1000px;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 5px solid black;
+    border-bottom: 2.5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+}
+.footer{
+    width: 500px;
+    height: 315px;
+    float: left;
+    margin: 5px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+
+}
