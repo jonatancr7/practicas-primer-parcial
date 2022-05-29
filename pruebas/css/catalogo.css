@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+  
+}
+body{
+    background-color: bisque;
+}
+section{
+    margin-top: 90px;
+    margin-left: 250px;
+    margin-right: 100px;
+    background-color: rgb(161, 139, 158);
+    width: 850px;
+    height: 500px;
+    float: left;
+}
+.perfume{
+    margin-right: 100px;
+    width: 100px ;
+    height: 200px;
+    display: inline-block;
+    text-align: center;
+    line-height: 15px;
+    font-size: 20px;
+    direction: unset;
+}
+h1{
+    text-align: center;
+    margin-top: 100px;
+}

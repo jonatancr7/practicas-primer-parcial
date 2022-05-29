@@ -1,0 +1,79 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(https://fondosmil.com/fondo/24259.jpg);
+}
+.formato{
+ 
+    width: 650px;
+    height: 100px;
+    float: left;
+}
+.web{
+    width: 55px ;
+    height: 20px;
+    display: inline-block;
+    text-align: left;
+    line-height: 15px;
+    font-size: 20px;
+    direction: rtl;
+    border-right: 1px solid black;
+}
+.opciones{
+
+    width: 650px;
+    height: 100px;
+    float: right;
+    text-align: right;
+}
+.xd{
+    width: 80px ;
+    height: 20px;
+    display: inline-block;
+    line-height: 15px;
+    font-size: 20px;
+    direction: ltr;
+    border-left: 1px solid black;
+}
+.centro{
+
+    width: 1350px;
+    height: 400px;
+    float: left;
+    text-align: center;
+}
+h1{
+    font-size:50PX;
+    color: rgb(10, 10, 10);
+    padding-top: 100px;
+}
+
+#buscador{
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 300px;
+}
+#search{
+    border-radius: 10px;
+    width: 100px;
+}
+#im{
+    border-radius: 5px;
+    width: 120px;
+}
+.final{
+
+        width: 1350px;
+        height: 100px;
+        float: left;
+        text-align: center;
+        margin-top: 45px;
+}
+.link{
+    color: white;
+    display: inline-block;
+    border-left: 2px solid black;
+    font-size:smaller;
+}
